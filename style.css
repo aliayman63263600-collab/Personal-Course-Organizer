@@ -70,7 +70,7 @@ button:hover {
 }
 .popup {
     display: none;
-     width:  40%;
+     width:  50%;
     text-align: center;
     margin-top: 20px;
     border: 2px solid rgb(44, 62, 80);
